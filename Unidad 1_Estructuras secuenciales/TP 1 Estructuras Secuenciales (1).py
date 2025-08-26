@@ -71,4 +71,4 @@ a = int(input("numero: "))
 b = int(input("numero: "))
 c = int(input("numero: "))
 promedio = (a + b + c) / 3
-print (f"el promedio es: {promedio}")
+print (f"el promedio es: {promedio}") 
