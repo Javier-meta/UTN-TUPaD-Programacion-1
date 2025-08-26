@@ -269,4 +269,4 @@ elif hemisferio == "s":
             print ("Primavera")
     elif mes == "noviembre":
         if dia >= 1 and dia <= 30:
-            print ("Primavera")  
+            print ("Primavera")
